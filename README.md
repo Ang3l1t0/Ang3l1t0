@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Angel</h1>
 <h3 align="center">A passionate electronic engineer and software developer from Colombia</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ang3l1t0" alt="ang3l1t0" /> </p>
+
 - 🔭 I’m currently working on **Code-Vault**
 
 - 🌱 I’m currently learning **Docker, AWS**
@@ -12,7 +14,7 @@
 <p align="left">
 <h3 align="left">Connect with me:</h3>
 <a href="https://twitter.com/ang3lp" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="ang3lp" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/angel palma martinez" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="angel palma martinez" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/angel-palma-martinez" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="angel palma martinez" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/angel palma" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="angel palma" height="30" width="40" /></a>
 <a href="https://medium.com/@angel_palma" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@angel_palma" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/aepalma4712" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="aepalma4712" height="30" width="40" /></a>
